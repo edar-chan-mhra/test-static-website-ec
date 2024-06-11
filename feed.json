@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Test Static Website EC",
     "description": "",
-    "home_page_url": "https://mhra.github.io/test-static-website-ec",
-    "feed_url": "https://mhra.github.io/test-static-website-ec/feed.json",
+    "home_page_url": "https://edar-chan-mhra.github.io/test-static-website-ec",
+    "feed_url": "https://edar-chan-mhra.github.io/test-static-website-ec/feed.json",
     "user_comment": "",
     "author": {
         "name": "Edar Chan"
