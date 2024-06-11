@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mhra.github.io/test-static-website-ec/sitemap.xml
